@@ -1,0 +1,1 @@
+openExample('wavelet/SingleLevel2DDWTwithFiltersExample')
